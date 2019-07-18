@@ -1,0 +1,49 @@
+body {
+    background-color: #5CB6E7;
+}
+
+.container {
+    background-color: white;
+    padding: 0 !important;
+}
+
+header {
+    margin-bottom: 5%;
+}
+
+header img {
+    width: 100%;
+}
+
+section #name {
+    border-style: none;
+    border-bottom: #0099cd 2px solid;
+    width: 100%;
+}
+
+section input:focus {
+    outline: none;
+}
+
+section {
+    padding: 30px 15%;
+}
+
+section div {
+    margin-bottom: 50px;
+}
+
+section div label {
+    margin-bottom: 20px;
+}
+
+textarea {
+    width: 100%;
+}
+
+footer {
+    height: 50px;
+    background: #00cc99;
+    text-align: center;
+    line-height: 50px;
+}
